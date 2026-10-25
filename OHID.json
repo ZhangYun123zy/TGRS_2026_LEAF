@@ -1,0 +1,62 @@
+{
+  "building": [
+    "Building exhibits regular and compact spatial texture with clear geometric shapes.",
+    "Building shows strong edge structures and sharp boundaries.",
+    "Building presents low internal texture variation within roof regions.",
+    "Building appears spatially homogeneous over planar surfaces.",
+    "Building displays high contrast with surrounding land-cover classes.",
+    "Building shows moderate to high reflectance in visible bands.",
+    "Building exhibits relatively flat spectral responses across wavelengths.",
+    "Building has low near-infrared reflectance compared with vegetation.",
+    "Building displays material-dependent spectral variability.",
+    "Building presents weak or absent vegetation-related spectral features."
+  ],
+  "farmland": [
+    "Farmland exhibits regular and repetitive spatial texture due to cultivation patterns.",
+    "Farmland shows strip-like or block-shaped spatial structures.",
+    "Farmland presents moderate texture variability across parcels.",
+    "Farmland appears spatially organized with clear field boundaries.",
+    "Farmland displays seasonal texture differences within cultivated areas.",
+    "Farmland shows vegetation-like spectral signatures in growing seasons.",
+    "Farmland exhibits high near-infrared reflectance when crops are healthy.",
+    "Farmland displays strong red-band absorption caused by chlorophyll.",
+    "Farmland shows spectral variability depending on crop type and growth stage.",
+    "Farmland presents intermediate spectral characteristics between soil and vegetation."
+  ],
+  "road": [
+    "Road exhibits elongated and linear spatial texture.",
+    "Road shows smooth texture with consistent width.",
+    "Road presents strong directional continuity across the scene.",
+    "Road has clear spatial boundaries separating it from surroundings.",
+    "Road displays low internal texture variation along its length.",
+    "Road shows low to moderate reflectance in visible bands.",
+    "Road exhibits low near-infrared reflectance.",
+    "Road displays relatively flat spectral characteristics across bands.",
+    "Road shows higher red-band reflectance than vegetation.",
+    "Road presents spectral signatures typical of asphalt or concrete materials."
+  ],
+  "water": [
+    "Water exhibits very smooth and homogeneous spatial texture.",
+    "Water shows minimal internal spatial variation.",
+    "Water presents uniform regions with well-defined boundaries.",
+    "Water lacks structural spatial patterns and fine-scale texture.",
+    "Water appears spatially flat with low local contrast.",
+    "Water shows very low reflectance across visible and infrared bands.",
+    "Water exhibits strong absorption in the near-infrared region.",
+    "Water has slightly higher reflectance in the blue band.",
+    "Water presents decreasing reflectance toward longer wavelengths.",
+    "Water displays distinct low-intensity spectral signatures."
+  ],
+  "fishpond": [
+    "Fishpond exhibits regular and rectangular spatial texture.",
+    "Fishpond shows uniform interior texture bounded by embankments.",
+    "Fishpond presents clear geometric boundaries and sharp edges.",
+    "Fishpond appears spatially homogeneous within each pond unit.",
+    "Fishpond displays repetitive spatial patterns across multiple ponds.",
+    "Fishpond shows low overall spectral reflectance similar to water bodies.",
+    "Fishpond exhibits increased reflectance in visible bands due to turbidity.",
+    "Fishpond shows strong absorption in the near-infrared region.",
+    "Fishpond displays spectral variability caused by algae or suspended matter.",
+    "Fishpond presents distinct spectral signatures compared with natural water."
+  ]
+}

@@ -1,0 +1,28 @@
+The following categories belong to the Pavia dataset; 
+please describe each category from the perspectives of spatial texture and spectral reflectance, respectively; 
+Each description is a short and complete sentence. Each category has five spatial texture and spectral descriptions. 
+Each description begins with classname. 
+Tree Asphalt Brick Bitumen Shadow Meadow Bare soil
+
+The following categories belong to the Houston dataset; 
+please describe each category from the perspectives of spatial texture and spectral reflectance, respectively; 
+Each description is a short and complete sentence. Each category has five spatial texture and spectral descriptions. 
+Each description begins with classname. 
+Grass healthy,
+Grass stressed,
+Trees, 
+Water, 
+Residential buildings, 
+Non-residential Buildings,  
+Road
+
+
+The following categories belong to the hyperspectral dataset captured by Orbita; 
+please describe each category from the perspectives of spatial texture and spectral reflectance, respectively; 
+Each description is a short and complete sentence. Each category has five spatial texture and spectral descriptions. 
+Each description begins with classname. 
+building,
+farmland, 
+road, 
+water, 
+fishpond

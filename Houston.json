@@ -1,0 +1,86 @@
+{
+  "grass_healthy": [
+    "Grass healthy exhibits homogeneous and smooth spatial texture with fine-scale patterns.",
+    "Grass healthy shows continuous spatial coverage with low edge density.",
+    "Grass healthy appears spatially uniform over large contiguous areas.",
+    "Grass healthy has low structural complexity and minimal shadow effects.",
+    "Grass healthy presents soft spatial texture without sharp geometric features.",
+    "Grass healthy shows high spectral reflectance in the near-infrared band.",
+    "Grass healthy exhibits strong chlorophyll absorption in the red band.",
+    "Grass healthy has low spectral reflectance in the blue region.",
+    "Grass healthy displays a steep red-edge spectral transition.",
+    "Grass healthy presents stable vegetation spectral signatures across bands."
+  ],
+  "grass_stressed": [
+    "Grass stressed shows slightly heterogeneous spatial texture with patchy patterns.",
+    "Grass stressed exhibits uneven spatial distribution and irregular coverage.",
+    "Grass stressed has moderate local texture variation.",
+    "Grass stressed appears less continuous than healthy grass.",
+    "Grass stressed presents subtle spatial roughness across regions.",
+    "Grass stressed shows reduced near-infrared spectral reflectance.",
+    "Grass stressed exhibits increased red-band reflectance compared to healthy grass.",
+    "Grass stressed displays a weakened red-edge feature.",
+    "Grass stressed shows higher spectral variability across bands.",
+    "Grass stressed presents spectral signatures indicating lower chlorophyll content."
+  ],
+  "trees": [
+    "Trees exhibit coarse and heterogeneous spatial texture with complex canopy structures.",
+    "Trees show irregular spatial patterns formed by crowns and branches.",
+    "Trees present high texture contrast due to shadows and vertical structure.",
+    "Trees appear spatially clustered with non-uniform boundaries.",
+    "Trees display multi-scale spatial texture variability.",
+    "Trees show very high spectral reflectance in the near-infrared region.",
+    "Trees exhibit strong red-band absorption caused by chlorophyll.",
+    "Trees display a pronounced red-edge spectral feature.",
+    "Trees have lower visible-band reflectance than grass.",
+    "Trees present stable vegetation spectral signatures with high biomass response."
+  ],
+  "water": [
+    "Water exhibits very smooth and homogeneous spatial texture.",
+    "Water shows minimal internal spatial variation.",
+    "Water presents uniform spatial regions with sharp boundaries.",
+    "Water lacks structural spatial patterns and fine-scale texture.",
+    "Water appears spatially flat with low local contrast.",
+    "Water shows very low spectral reflectance across most bands.",
+    "Water exhibits strongest absorption in the near-infrared region.",
+    "Water has slightly higher reflectance in the blue band.",
+    "Water presents decreasing reflectance toward longer wavelengths.",
+    "Water displays distinct low-intensity spectral signatures."
+  ],
+  "residential_buildings": [
+    "Residential buildings show regular spatial textures with small-scale geometric patterns.",
+    "Residential buildings exhibit moderate spatial heterogeneity.",
+    "Residential buildings present repetitive roof structures and clear edges.",
+    "Residential buildings appear spatially organized with distinct boundaries.",
+    "Residential buildings show mixed textures due to roofs and surrounding objects.",
+    "Residential buildings show moderate spectral reflectance in visible bands.",
+    "Residential buildings exhibit relatively flat spectral responses.",
+    "Residential buildings have lower near-infrared reflectance than vegetation.",
+    "Residential buildings show material-dependent spectral variability.",
+    "Residential buildings present spectral signatures influenced by roofing materials."
+  ],
+  "non-residential_buildings": [
+    "Non-residential buildings exhibit large and uniform planar spatial textures.",
+    "Non-residential buildings show strong geometric shapes and sharp edges.",
+    "Non-residential buildings present low internal spatial texture variation.",
+    "Non-residential buildings appear spatially compact and regular.",
+    "Non-residential buildings show high contrast with surrounding areas.",
+    "Non-residential buildings exhibit high spectral reflectance in visible bands.",
+    "Non-residential buildings show stable and smooth spectral curves.",
+    "Non-residential buildings have low near-infrared reflectance.",
+    "Non-residential buildings display spectra dominated by concrete or metal materials.",
+    "Non-residential buildings present minimal vegetation-related spectral features."
+  ],
+  "road": [
+    "Road exhibits elongated and linear spatial patterns.",
+    "Road shows smooth spatial texture with consistent width.",
+    "Road presents strong directional continuity.",
+    "Road has clear spatial boundaries separating it from surroundings.",
+    "Road displays low internal spatial texture variation along its length.",
+    "Road shows low to moderate spectral reflectance in visible bands.",
+    "Road exhibits low near-infrared spectral reflectance.",
+    "Road displays relatively flat spectral characteristics.",
+    "Road shows higher red-band reflectance than vegetation.",
+    "Road presents spectral signatures typical of asphalt or concrete surfaces."
+  ]
+}

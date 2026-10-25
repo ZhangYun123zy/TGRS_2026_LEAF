@@ -1,0 +1,86 @@
+{
+    "tree": [
+        "Tree exhibits a rough and irregular spatial texture.",
+        "Tree shows high local spatial variability due to canopy structure.",
+        "Tree lacks regular geometric spatial patterns.",
+        "Tree forms spatial regions with fuzzy boundaries.",
+        "Tree displays non-uniform and complex spatial arrangements.",
+        "Tree has low spectral reflectance in visible bands.",
+        "Tree shows strong spectral reflectance in the near-infrared region.",
+        "Tree exhibits a pronounced red-edge feature.",
+        "Tree presents strong red-band absorption caused by chlorophyll.",
+        "Tree shows water-related absorption features at longer wavelengths."
+    ],
+    "asphalt": [
+        "Asphalt exhibits a smooth and homogeneous spatial texture.",
+        "Asphalt forms large continuous spatial regions.",
+        "Asphalt shows very low spatial variability.",
+        "Asphalt displays weak local spatial contrast.",
+        "Asphalt has clear and straight spatial boundaries.",
+        "Asphalt shows low spectral reflectance across all bands.",
+        "Asphalt exhibits a slightly increasing reflectance toward near-infrared.",
+        "Asphalt presents a relatively flat spectral curve.",
+        "Asphalt lacks distinctive spectral absorption features.",
+        "Asphalt appears spectrally darker than most non-shadow materials."
+    ],
+    "brick": [
+        "Brick exhibits moderately rough spatial texture.",
+        "Brick shows regular man-made spatial patterns.",
+        "Brick contains strong linear and edge structures.",
+        "Brick displays higher spatial variability than asphalt.",
+        "Brick often appears spatially fragmented.",
+        "Brick shows relatively high reflectance in visible bands.",
+        "Brick exhibits strong reflectance in the red band.",
+        "Brick presents a stable spectral profile across wavelengths.",
+        "Brick shows moderate reflectance in the near-infrared.",
+        "Brick has spectral characteristics influenced by iron oxides."
+    ],
+    "bitumen": [
+        "Bitumen exhibits a smooth but compact spatial texture.",
+        "Bitumen shows slightly more spatial heterogeneity than asphalt.",
+        "Bitumen forms small and dense spatial regions.",
+        "Bitumen displays low internal spatial contrast.",
+        "Bitumen has sharp and well-defined spatial boundaries.",
+        "Bitumen shows very low reflectance across all bands.",
+        "Bitumen appears spectrally darker than asphalt.",
+        "Bitumen exhibits a nearly flat spectral curve.",
+        "Bitumen has minimal visible and near-infrared reflectance.",
+        "Bitumen shows limited spectral separability from shadow."
+    ],
+    "shadow": [
+        "Shadow follows the spatial shape of occluding objects.",
+        "Shadow shows texture dependent on the underlying surface.",
+        "Shadow exhibits reduced spatial contrast.",
+        "Shadow presents sharp spatial boundaries.",
+        "Shadow suppresses fine spatial details.",
+        "Shadow shows extremely low reflectance in all bands.",
+        "Shadow exhibits uniformly reduced spectral intensity.",
+        "Shadow weakens material-specific spectral features.",
+        "Shadow presents a flattened spectral shape.",
+        "Shadow increases relative spectral noise effects."
+    ],
+    "meadow": [
+        "Meadow exhibits a smooth and uniform spatial texture.",
+        "Meadow shows low spatial roughness.",
+        "Meadow forms large homogeneous spatial regions.",
+        "Meadow displays gentle spatial transitions.",
+        "Meadow appears more regular than tree areas.",
+        "Meadow shows typical vegetation spectral behavior.",
+        "Meadow exhibits low reflectance in visible bands.",
+        "Meadow shows high near-infrared reflectance.",
+        "Meadow presents a clear but moderate red-edge feature.",
+        "Meadow has weaker near-infrared reflectance than dense trees."
+    ],
+    "bare soil": [
+        "Bare soil exhibits irregular and granular spatial texture.",
+        "Bare soil shows moderate spatial variability.",
+        "Bare soil lacks regular geometric spatial patterns.",
+        "Bare soil displays uneven surface roughness.",
+        "Bare soil appears spatially fragmented and heterogeneous.",
+        "Bare soil shows a gradual increase in reflectance with wavelength.",
+        "Bare soil exhibits moderate reflectance in visible bands.",
+        "Bare soil lacks a vegetation red-edge feature.",
+        "Bare soil shows lower near-infrared reflectance than vegetation.",
+        "Bare soil has spectral variability influenced by moisture and minerals."
+    ]
+}
